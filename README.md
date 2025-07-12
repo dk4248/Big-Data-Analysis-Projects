@@ -18,8 +18,9 @@ This repository contains four comprehensive Big Data Analytics projects that dem
 - Implement ETL pipeline for data migration
 - Execute complex queries using Apache Spark
 - Performance optimization and comparative analysis
-[📁 View Project](./University%20Database%20Migration%20Project/)
-[📖 Detailed README](./University%20Database%20Migration%20Project/README.md)
+  
+[📁 View Project](./University%20Database%20Migration%20Project/) | [📖 Detailed README](./University%20Database%20Migration%20Project/university-db-migration-readme.md.md)
+
 
 ---
 
@@ -32,7 +33,7 @@ This repository contains four comprehensive Big Data Analytics projects that dem
 - Evaluate performance with intersection scores
 - Statistical analysis and visualization
 
-[📁 View Project](./lsh-text-similarity/) | [📖 Detailed README](./lsh-text-similarity/README.md)
+[📁 View Project](./LSH%20Text%20Similarity%20Finder/) | [📖 Detailed README](./lsh-text-similarity/lsh-text-similarity-readme.md)
 
 ---
 
@@ -45,7 +46,7 @@ This repository contains four comprehensive Big Data Analytics projects that dem
 - Compare results with different decay factors (C = 0.7, 0.8, 0.9)
 - Analyze similarity for query nodes
 
-[📁 View Project](./citation-simrank-analysis/) | [📖 Detailed README](./citation-simrank-analysis/README.md)
+[📁 View Project](./Citation%20SimRank%20Analysis/) | [📖 Detailed README](./citation-simrank-analysis/citation-simrank-readme.md)
 
 ---
 
@@ -58,7 +59,7 @@ This repository contains four comprehensive Big Data Analytics projects that dem
 - Evaluate communities using modularity
 - Analyze community structure and overlaps
 
-[📁 View Project](./agm-community-detection/) | [📖 Detailed README](./agm-community-detection/README.md)
+[📁 View Project](./AGM%20Community%20Detection/) | [📖 Detailed README](./agm-community-detection/agm-community-detection-readme.md)
 
 ---
 
