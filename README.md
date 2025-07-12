@@ -19,7 +19,7 @@ This repository contains four comprehensive Big Data Analytics projects that dem
 - Execute complex queries using Apache Spark
 - Performance optimization and comparative analysis
   
-[📁 View Project](./University%20Database%20Migration%20Project/) | [📖 Detailed README](./University%20Database%20Migration%20Project/university-db-migration-readme.md.md)
+[📁 View Project](./University%20Database%20Migration%20Project/) | [📖 Detailed README](./University%20Database%20Migration%20Project/university-db-migration-readme.md)
 
 
 ---
