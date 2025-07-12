@@ -18,8 +18,8 @@ This repository contains four comprehensive Big Data Analytics projects that dem
 - Implement ETL pipeline for data migration
 - Execute complex queries using Apache Spark
 - Performance optimization and comparative analysis
-
-[📁 View Project](./University_Database_Migration_Project) | [📖 Detailed README](./University_Database_Migration_Project/README.md)
+[📁 View Project](./University%20Database%20Migration%20Project/)
+[📖 Detailed README](./University%20Database%20Migration%20Project/README.md)
 
 ---
 
